@@ -10,6 +10,7 @@ https://docs.google.com/spreadsheets/d/18qz1YSMCiSWTeZOMi3fu3TF_l8JTxbM1C-irBiOs
  
 2. Kto ma być użytkownikiem końcowym aplikacji?
 
+Użytkownikami docelowymi są ludzie, którzy szukają sposoby na rozładowanie stresu, lepszy sen lub nauke medytacji. Jest to dla tych osob pomocne w skupieniu się na osiągnieciu wybranego przez nich celu np. 
 
 3. Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
 
