@@ -6,6 +6,8 @@
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
+
+
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: [pati@mail.com](mailto:pati@mail.com)
 ![image](https://user-images.githubusercontent.com/109338452/206052533-fbef0e87-b441-47bf-8fd6-86b97250e94a.png)
 ![image](https://user-images.githubusercontent.com/109338452/206052557-b831dfef-4e59-4622-8c09-415f972bff13.png)
