@@ -6,6 +6,17 @@
 ## Subtask 3
 Hejka! Mam na imie Beata. Biorę udział w QA Challenge:Zostań Testerem Manualnym, ponieważ jest to dobra szansa na nauke i rozwój moich umiiejtności. Skończyłam technikum informatyczne i na najdłóższych wakacjach zaczełam interesować sie testowaniem aplikacji.
 
+# Task 2
+## Subtask
+
+
+
+# Task 3
+
+
+
+# Task 4
+
 # Task 5
 ## Subtask 1
 Czego nauczyłam się na kursie z SQLa
